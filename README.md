@@ -206,7 +206,6 @@
 * [Instructions](/challenges/README.md)
 * [Questions](/challenges/challenges_questions)
 * [Data](challenges/challenges_data)
-* [Solutions](challenges/challenges_solutions)
 * [student_submissions/challenges](/student_submissions/challenges)
 
 **Note:**
@@ -244,7 +243,7 @@
 
 ### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
 
-* Required:  2 presentations
+* Required:  1 presentation
 * [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
@@ -254,6 +253,7 @@
 * Required:  2 blogs
 * Recommended:  5+ blogs
 * Blog [Link](https://drive.google.com/open?id=1PrIeARJY8XNYQqyq2dRKsVRuFIul3w8HyFasoIGMIa0) 
+
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|
 | 1    | ds / project 1 | required | EOD Presentation Day |   
