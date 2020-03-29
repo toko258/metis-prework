@@ -62,6 +62,7 @@
     (60m)
    </small>
    <br/>
+   <hr align="left" width="50%"/>
    <a href="/curriculum/project-01/day-1-materials">
     • Day 1 Materials
    </a>
