@@ -272,7 +272,7 @@
 
 | Quiz | Topics | Note* | Date |  
 |------|-------|-------|-----|
-| 1    | Weeks 1-4 | required | Fri, Week 4 |   
-| 2    | Weeks 5-7 | required | Fri, Week 7 |  
+| 1    | Weeks 1-2 | required | Fri, Week 2 |   
+| 2    | Weeks 3-4 | required | Fri, Week 4 |  
 
 
