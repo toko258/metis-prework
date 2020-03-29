@@ -23,6 +23,101 @@
 * [Investigation Signup](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8)
 * [Blog Submission](https://drive.google.com/open?id=1PrIeARJY8XNYQqyq2dRKsVRuFIul3w8HyFasoIGMIa0)
 
+### Metis Conda Environment
+
+<details><summary> Installing the environment for the first time (click to expand)</summary> 
+
+# Environment management
+
+We will be using Anaconda environments to manage the python packages that are
+needed for our curriculum. You can think of an environment as a container for
+the packages that you need to run code.
+
+Environments can be useful when you have several different projects, each with
+different software requirements. Environments let you separately the packages
+used for each package and preserve them so that the project code will continue
+to work in the future.
+
+Today, we'll start by building our very first conda environment. Metis has a
+list of the software needed to run all the code in our curriculum. We keep track
+of this in the cloud, allowing you to easily get up and running.
+
+## Setup
+
+### Conda
+
+First, you need to have anaconda installed in order for this to work. Check that
+`conda` is installed by running `conda -V` from your terminal. You should
+receive a response indicating your current `conda` version.
+
+If you haven't already, install the appropriate miniconda for your system from
+the link [here](https://docs.conda.io/en/latest/miniconda.html). **Be sure to
+select the python 3.\* version**.
+
+### Metis Environment
+
+Now we'll run the code to install the metis environment.
+
+First, let's check if `conda` needs to be updated:
+
+```bash
+conda update conda -y
+```
+
+Next, we need to install `anaconda-client` in order to load cloud environmentts.
+
+```bash
+conda install anaconda-client -y
+```
+
+Finally, install the Metis environment:
+
+```bash
+conda env create thisismetis/metis
+```
+
+The `nb_conda` package will automatically connect your conda environment to
+jupytyer.
+
+# How to use the Metis environment
+
+When you open a new terminal, you should see a prompt similar to:
+
+```bash
+(base)$
+```
+
+This indicates that you are currently in the "base" environment. You can confirm
+this with `conda info`.
+
+## Switch to the Metis environment
+
+**Before you can run Jupyter, you need to switch to the Metis environment.** You
+can do this by running
+
+```bash
+(base)$ conda activate metis
+(metis)$
+```
+
+You can then start Jupyter by running
+
+```bash
+(metis)$ jupyter notebook
+```
+
+When starting a new notebook in Jupyter, students should select "Kernel ->
+Change Kernel -> metis" before running.
+
+</details>
+
+<details><summary>Updating the environment (click to expand)</summary> 
+You can update your metis environment any time by running
+
+```bash
+conda env update thisismetis/metis
+```
+</details>
 
 
 
@@ -53,7 +148,7 @@
    Week 1
   </th>
   <td>
-   Total: 210m
+   Total: 185m
    <br/>
    <a href="pairs/fizzbuzz">
     • Pair: fizzbuzz
@@ -62,12 +157,18 @@
     (60m)
    </small>
    <br/>
-   <hr align="left" width="50%"/>
+   <a href="/curriculum/project-01/pair_demo">
+    • Pair Demo
+   </a>
+   <small>
+    (20m)
+   </small>
+   <br/>
    <a href="/curriculum/project-01/day-1-materials">
     • Day 1 Materials
    </a>
    <small>
-    (20m)
+    (40m)
    </small>
    <br/>
    <a href="/curriculum/project-01/git-1">
@@ -77,18 +178,11 @@
     (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/pandas-intro">
-    • Pandas Intro
+   <a href="/curriculum/project-01/pandas-revisited">
+    • Pandas Revisited
    </a>
    <small>
-    (90m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/environment-intro">
-    • Environment introduction
-   </a>
-   <small>
-    (20m)
+    (45m)
    </small>
    <br/>
    <a href="/curriculum/project-01/project-01-introduction">
@@ -98,6 +192,13 @@
     (20m)
    </small>
    <br/>
+   <a href="/curriculum/project-01/review">
+    • Optional Review
+   </a>
+   <small>
+    (0m)
+   </small>
+   <br/>
   </td>
   <td>
    Total: 150m
@@ -105,11 +206,6 @@
    • Pair: alphabets
    <small>
     (60m)
-   </small>
-   <br/>
-   • Git Branches
-   <small>
-    (30m)
    </small>
    <br/>
    • Project Design
@@ -122,6 +218,11 @@
     (90m)
    </small>
    <br/>
+   • Git Branches
+   <small>
+    (30m)
+   </small>
+   <br/>
   </td>
   <td>
    Total: 150m
@@ -131,14 +232,14 @@
     (60m)
    </small>
    <br/>
-   • Seaborn
-   <small>
-    (30m)
-   </small>
-   <br/>
    • Presentation Guide
    <small>
     (60m)
+   </small>
+   <br/>
+   • Seaborn
+   <small>
+    (30m)
    </small>
    <br/>
    • MTA Challenge Solutions
@@ -206,6 +307,7 @@
 * [Instructions](/challenges/README.md)
 * [Questions](/challenges/challenges_questions)
 * [Data](challenges/challenges_data)
+* [Solutions](challenges/challenges_solutions)
 * [student_submissions/challenges](/student_submissions/challenges)
 
 **Note:**
@@ -243,9 +345,8 @@
 
 ### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
 
-* Required:  1 presentation
-* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) 
-* After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
+* Required:  2 presentations
+* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
@@ -254,7 +355,6 @@
 * Required:  2 blogs
 * Recommended:  5+ blogs
 * Blog [Link](https://drive.google.com/open?id=1PrIeARJY8XNYQqyq2dRKsVRuFIul3w8HyFasoIGMIa0) 
-
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|
 | 1    | ds / project 1 | required | EOD Presentation Day |   
@@ -268,11 +368,11 @@
 
 ### <a name="section-e"></a>Assessments
  
-* There will be 2 Quizzes given (dates below).  The quizzes will be take homes.
+* There will be 2 Quizzes given (dates below).  The quiz will be given in class & will be multiple-choice format.
 
 | Quiz | Topics | Note* | Date |  
 |------|-------|-------|-----|
-| 1    | Weeks 1-2 | optional | Fri, Week 2 |   
-| 2    | Weeks 3-4 | optional | Fri, Week 4 |  
+| 1    | Weeks 1-4 | required | Fri, Week 4 |   
+| 2    | Weeks 5-7 | required | Fri, Week 7 |  
 
 
