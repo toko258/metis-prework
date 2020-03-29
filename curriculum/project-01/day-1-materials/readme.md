@@ -6,7 +6,7 @@
 
 In this introductory lesson, students will
 
-* Gain knowledge about the Metis Bootcamp
+* Gain knowledge about the Metis Bootcamps
 
 # Depends On
 
