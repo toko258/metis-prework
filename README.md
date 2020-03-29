@@ -244,7 +244,8 @@
 ### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
 
 * Required:  1 presentation
-* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
+* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) 
+* After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
