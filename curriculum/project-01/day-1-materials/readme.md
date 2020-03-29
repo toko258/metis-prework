@@ -1,7 +1,6 @@
 # Sample Lesson Plan
 
 * (20m) [Bootcamp Intro](Bootcamp_Intro.pptx)
-* (20m) [Pair Programming Demo](pair-demo.md) (Solutions: [.py](pair-demo.py) or [.ipynb](pair-demo.ipynb))
 
 # Learning Objectives
 

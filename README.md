@@ -53,7 +53,7 @@
    Week 1
   </th>
   <td>
-   Total: 310m
+   Total: 210m
    <br/>
    <a href="pairs/fizzbuzz">
     • Pair: fizzbuzz
@@ -62,25 +62,18 @@
     (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/environment-intro">
-    • Environment introduction
-   </a>
-   <small>
-    (20m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/pair_demo">
-    • Pair Demo
-   </a>
-   <small>
-    (20m)
-   </small>
-   <br/>
    <a href="/curriculum/project-01/day-1-materials">
     • Day 1 Materials
    </a>
    <small>
-    (40m)
+    (20m)
+   </small>
+   <br/>
+   <a href="/curriculum/project-01/git-1">
+    • Git Intro
+   </a>
+   <small>
+    (60m)
    </small>
    <br/>
    <a href="/curriculum/project-01/pandas-intro">
@@ -90,18 +83,11 @@
     (90m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/command-line">
-    • Command Line
+   <a href="/curriculum/project-01/environment-intro">
+    • Environment introduction
    </a>
    <small>
-    (45m)
-   </small>
-   <br/>
-   <a href="/curriculum/project-01/python-review">
-    • Python Review
-   </a>
-   <small>
-    (75m)
+    (20m)
    </small>
    <br/>
    <a href="/curriculum/project-01/project-01-introduction">
@@ -113,21 +99,21 @@
    <br/>
   </td>
   <td>
-   Total: 180m
+   Total: 150m
    <br/>
    • Pair: alphabets
    <small>
     (60m)
    </small>
    <br/>
-   • Project Design
+   • Git Branches
    <small>
     (30m)
    </small>
    <br/>
-   • Git Intro
+   • Project Design
    <small>
-    (60m)
+    (30m)
    </small>
    <br/>
    • Matplotlib
@@ -137,14 +123,9 @@
    <br/>
   </td>
   <td>
-   Total: 230m
+   Total: 150m
    <br/>
    • Pair: guessnum
-   <small>
-    (60m)
-   </small>
-   <br/>
-   • Presentation Guide
    <small>
     (60m)
    </small>
@@ -154,19 +135,14 @@
     (30m)
    </small>
    <br/>
-   • Git Branches
+   • Presentation Guide
    <small>
-    (30m)
+    (60m)
    </small>
    <br/>
    • MTA Challenge Solutions
    <small>
     (60m)
-   </small>
-   <br/>
-   • Python Advanced
-   <small>
-    (50m)
    </small>
    <br/>
   </td>
