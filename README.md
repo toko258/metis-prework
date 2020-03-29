@@ -148,7 +148,7 @@ conda env update thisismetis/metis
    Week 1
   </th>
   <td>
-   Total: 185m
+   Total: 145m
    <br/>
    <a href="pairs/fizzbuzz">
     • Pair: fizzbuzz
@@ -157,18 +157,12 @@ conda env update thisismetis/metis
     (60m)
    </small>
    <br/>
-   <a href="/curriculum/project-01/pair_demo">
-    • Pair Demo
-   </a>
-   <small>
-    (20m)
-   </small>
-   <br/>
+   <hr align="left" width="50%"/>
    <a href="/curriculum/project-01/day-1-materials">
     • Day 1 Materials
    </a>
    <small>
-    (40m)
+    (20m)
    </small>
    <br/>
    <a href="/curriculum/project-01/git-1">
@@ -208,6 +202,11 @@ conda env update thisismetis/metis
     (60m)
    </small>
    <br/>
+   • Git Branches
+   <small>
+    (30m)
+   </small>
+   <br/>
    • Project Design
    <small>
     (30m)
@@ -216,11 +215,6 @@ conda env update thisismetis/metis
    • Matplotlib
    <small>
     (90m)
-   </small>
-   <br/>
-   • Git Branches
-   <small>
-    (30m)
    </small>
    <br/>
   </td>
@@ -232,14 +226,14 @@ conda env update thisismetis/metis
     (60m)
    </small>
    <br/>
-   • Presentation Guide
-   <small>
-    (60m)
-   </small>
-   <br/>
    • Seaborn
    <small>
     (30m)
+   </small>
+   <br/>
+   • Presentation Guide
+   <small>
+    (60m)
    </small>
    <br/>
    • MTA Challenge Solutions
@@ -307,7 +301,6 @@ conda env update thisismetis/metis
 * [Instructions](/challenges/README.md)
 * [Questions](/challenges/challenges_questions)
 * [Data](challenges/challenges_data)
-* [Solutions](challenges/challenges_solutions)
 * [student_submissions/challenges](/student_submissions/challenges)
 
 **Note:**
@@ -345,8 +338,9 @@ conda env update thisismetis/metis
 
 ### <a name="section-f"></a>[Investigations (~ 10 minutes long)](/investigations)
 
-* Required:  2 presentations
-* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
+* Required:  1 presentation
+* [Investigation Signup Link](https://drive.google.com/open?id=1TCC-MDjE11ULQAeBmGAMWw9X_bZbWwab1dXhjadAwA8) 
+* After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
@@ -355,6 +349,7 @@ conda env update thisismetis/metis
 * Required:  2 blogs
 * Recommended:  5+ blogs
 * Blog [Link](https://drive.google.com/open?id=1PrIeARJY8XNYQqyq2dRKsVRuFIul3w8HyFasoIGMIa0) 
+
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|
 | 1    | ds / project 1 | required | EOD Presentation Day |   
@@ -368,11 +363,11 @@ conda env update thisismetis/metis
 
 ### <a name="section-e"></a>Assessments
  
-* There will be 2 Quizzes given (dates below).  The quiz will be given in class & will be multiple-choice format.
+* There will be 2 Quizzes given (dates below).  The quizzes will be take homes.
 
 | Quiz | Topics | Note* | Date |  
 |------|-------|-------|-----|
-| 1    | Weeks 1-4 | required | Fri, Week 4 |   
-| 2    | Weeks 5-7 | required | Fri, Week 7 |  
+| 1    | Weeks 1-2 | optional | Fri, Week 2 |   
+| 2    | Weeks 3-4 | optional | Fri, Week 4 |  
 
 

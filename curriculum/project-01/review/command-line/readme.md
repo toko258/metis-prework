@@ -1,5 +1,5 @@
 ---
-date: w01d01
+date: w01d0
 duration: 45
 maintainer: cscherrer
 order: 4

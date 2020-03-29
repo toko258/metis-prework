@@ -2,7 +2,7 @@
 date: w01d01
 duration: 20
 maintainer: artificialsoph
-order: 1
+order: 4
 title: Environment introduction
 ---
 
