@@ -268,11 +268,11 @@
 
 ### <a name="section-e"></a>Assessments
  
-* There will be 2 Quizzes given (dates below).  The quiz will be given in class & will be multiple-choice format.
+* There will be 2 Quizzes given (dates below).  The quizzes will be take homes.
 
 | Quiz | Topics | Note* | Date |  
 |------|-------|-------|-----|
-| 1    | Weeks 1-2 | required | Fri, Week 2 |   
-| 2    | Weeks 3-4 | required | Fri, Week 4 |  
+| 1    | Weeks 1-2 | optional | Fri, Week 2 |   
+| 2    | Weeks 3-4 | optional | Fri, Week 4 |  
 
 
