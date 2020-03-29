@@ -7,7 +7,6 @@
 In this introductory lesson, students will
 
 * Gain knowledge about the Metis Bootcamp
-* Understand the concept and added benefits of pair programming through a demonstration
 
 # Depends On
 
