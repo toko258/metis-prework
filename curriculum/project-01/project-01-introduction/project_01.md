@@ -4,7 +4,7 @@
 
 An email from a potential client:
 
-> Vinny & Julia -
+> Alice, Lara and Omar -
 >
 > It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.
 >
@@ -44,8 +44,8 @@ An email from a potential client:
 
 #### Deliverable/communication:
 
- * Group presentation (4-5 people per) 
- * slide presentation
+ * Group presentation (3-4 people per) 
+ * slide presentation (6 minutes)
  * visual and oral communication in group presentations
  * organized project repository
 
