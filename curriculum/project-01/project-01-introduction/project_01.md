@@ -50,4 +50,4 @@ An email from a potential client:
  * organized project repository
 
 
-We are very excited to see what you will learn and do for Project Benson!
+We are very excited to see what you will learn and do for Project 1!
