@@ -197,22 +197,31 @@ conda env update thisismetis/metis
   <td>
    Total: 150m
    <br/>
-   • Pair: alphabets
+   <a href="pairs/alphabets">
+    • Pair: alphabets
+   </a>
    <small>
     (60m)
    </small>
    <br/>
-   • Git Branches
+   <hr align="left" width="50%"/>
+   <a href="/curriculum/project-01/git-2">
+    • Git Branches
+   </a>
    <small>
     (30m)
    </small>
    <br/>
-   • Project Design
+   <a href="/curriculum/project-01/design">
+    • Project Design
+   </a>
    <small>
     (30m)
    </small>
    <br/>
-   • Matplotlib
+   <a href="/curriculum/project-01/matplotlib">
+    • Matplotlib
+   </a>
    <small>
     (90m)
    </small>
